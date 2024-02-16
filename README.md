@@ -7,7 +7,6 @@ Aspiring Data Analyst
 After my MBA in International Business from the London School of Commerce in 2015, I had a career break to look after my child, I started my journey back into the work environment as a Health Care Assistant for various care organisations for about 4 years before landing the role of a Project Manager with about 2 years experience and honing experience in stakeholders’ management, customer service, cross-team communication, coordinating, scheduling, managing various small and medium-scale projects, finding creative solutions across project workstreams, community development and team liaison. Currently in the final stages of a Digital Skills Bootcamp at Just IT Training to consolidate my skills in data technician, I have worked on several projects using, Excel, Access, Tableau, PowerBI, MYSQL, SQL, Azure, Python, R to name a few. Aspiration is to work as a Junior Data Technician/Project Manager and to gain the experience and skills necessary. I thrive working in a challenging environment, solving problems, and finding the best solutions possible and seeing ideas come to fruition.
 
 * 🌍  I'm based in London
-* 🖥️  See my portfolio at [My projects](http://sites.google.com/view/ bunmiilesanmi)
 * ✉️  You can contact me at [bilesanmi0711@gmail.com](mailto:bilesanmi0711@gmail.com)
 * 🧠  I'm learning Azure, Python, R, PowerBI, Tableau, Panda
 * 🤝  I'm open to collaborating on Health care, Aviation, Energy
